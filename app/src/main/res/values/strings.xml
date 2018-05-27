@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">toolbardemo</string>
+    <string name="menutext1">菜单</string>
+    <string name="menutext2">菜单2</string>
+</resources>
